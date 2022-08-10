@@ -1,1 +1,1 @@
-# restaurant-page
+A dynamically rendered restaurant homepage to practice Webpack-installment and DOM Manipulation. JavaScript is used to generate the entire content of the website.
